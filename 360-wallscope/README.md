@@ -257,3 +257,20 @@ ReactDOM.render(
 
 ```
 
+## New ES6 things (I didn't know of)
+(Using Typescript)
+
+When having this object:
+```Typescript
+interface Props {
+    className?: string
+    type?: ButtonType
+    styleOverride?: StyleType
+    onClick?: React.MouseEventHandler<HTMLButtonElement>
+}
+```
+
+You can pick two out in a shorter way:
+```Javascript
+const { className, styleOverride } = this.props
+```
