@@ -170,3 +170,90 @@ In het Button component:
     return <button onClick={this.props.onClick}>{this.props.children}</button>;
   }
 ```
+
+### Lifecycle Hooks
+When pressing the button to update the property id the number changes but the api call doesn't start again. This is what Lifecycle Hooks are used for. 
+```Javascript
+import React from "react";
+import ReactDOM from "react-dom";
+import fetchPokemon from "./fetchPokemon";
+
+class Pokemon extends React.Component {
+  state = {
+    character: null
+  };
+  
+  componentDidUpdate(prevProps) {
+    // Typical usage (don't forget to compare props):
+    if (this.props.id !== prevProps.id) {
+      fetchPokemon(this.props.id).then(character =>
+        this.setState({ character }))
+    }
+  }
+
+  componentDidMount() {
+    fetchPokemon(this.props.id).then(character =>
+      this.setState({ character })
+    );
+  }
+
+  render() {
+    return this.state.character ? (
+      <div>
+        <h2>{this.state.character.name}</h2>
+
+        <h4>Abilities</h4>
+        <ul>
+          {this.state.character.abilities.map(ability => (
+            <li key={ability.ability.name}>
+              {ability.ability.name}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ) : (
+      <div>loading...</div>
+    );
+  }
+}
+
+class PokemonPager extends React.Component {
+  state = {
+    id: 1
+  };
+
+  render() {
+    return (
+      <div>
+        <button
+          type="button"
+          onClick={() =>
+            this.setState(({ id }) => ({ id: id - 1 }))}
+        >
+          Previous
+        </button>
+        
+        <button
+          type="button"
+          onClick={() =>
+            this.setState(({ id }) => ({ id: id + 1 }))}
+        >
+          Next
+        </button>
+        
+        <h2>{this.state.id}</h2>
+
+        <Pokemon id={this.state.id} />
+        
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(
+  <PokemonPager />,
+  document.getElementById("root")
+);
+
+```
+
