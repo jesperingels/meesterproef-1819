@@ -1,6 +1,9 @@
-# Aantekeningen
+# Notes 360-wallscope
 
-## Learning React
+* [Learning React](#Learning-React)
+* [Rubrics](#Rubrics)
+
+# Learning React
 I used this [Tutorial](https://react.holiday/2017/) to understand the basics of React.
 ### Props
 ```Javascript
@@ -274,3 +277,15 @@ You can pick two out in a shorter way:
 ```Javascript
 const { className, styleOverride } = this.props
 ```
+
+# Rubrics
+
+## Web Apps From Scratch
+![WAFS](./img/WAFS.png)
+
+## CSS to the rescue
+![CSS](./img/CSS.png)
+![CSS2](./img/CSS2.png)
+
+## Web Design
+![WebDesign](./img/WebDesign.png)
