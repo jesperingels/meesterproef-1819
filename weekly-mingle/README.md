@@ -42,3 +42,17 @@ This talk at schiphol was mainly focused on accesebility and how they try to imp
 ![sketchnotes Matise](./img/schiphol.jpg)
 </details>
 
+# Weekly Nerd - Workshop De Voorhoede
+This week we visited De Voorhoede in Amsterdam, who specialise in Front-end Development. The workshop was about progressive enhancement. Which basically means that the core functionallity will work on (almost) all devices. We had to progressive enhance a collor-picker, and discovered that there is actually an `<input type="color">`.
+
+# Weekly Mingle - ICATT
+ICATT is a digital agency, like almost every company participating in the weekly mingle. They told us what sort of clients they have, how they work and what a potential intern would be doing. At the end we had to give a personal pitch, to practice applying for jobs in the future. The way this company held this weekly mingle was quite creative compared to the other companies, which is a big plus. 
+
+Personally I didn't quite feel the match between me and ICATT, but that's just an impression from one hour. 
+
+# Weekly Mingle - Lifely
+Lifely gave a very cosy nerdy impression, which is something very positive in my opinion! They were a bunch of nerds playing Super Smash Bros on the switch which I can very much relate to! So the company culture was definetly a match in my opinion. 
+
+The code standard at Lifely is at a high level, which is much better than a company where every developer just writes code however they like. 
+
+# Weekly Mingle - 
