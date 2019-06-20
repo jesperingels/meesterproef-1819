@@ -312,5 +312,10 @@ const { className, styleOverride } = this.props
 3. Does the user know how to link the data?
 
 ### Intro scenario
+-You're a student writing your thesis and you have to search our database. You want to store this data so you can get an overview. 
+
+-The data is related to eachother, for your research you want to define which data belongs to eachother. 
+
+-
 
 
