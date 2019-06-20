@@ -84,5 +84,11 @@ This will be an article about my view on react which is based on three weeks wor
 React is a component based framework, which means that the entire app is put together by many different parts. Each part/component is made by one of the developers. 
 
 ### Pros
-* The big advantage for our project is that it's easy to work on the same project as a team in a structured way. We have a [github project](https://github.com/Maikxx/360-wallscope/projects/1), where each task is put on the board. Anyone can pick a cord and start working on it. Mostly you'll make a new component and create a new feature branch for it in git. 
-* Less merge conflicts. So if we use this workflow correctly, the amount of merge conflicts should be brought to a minimum. Because everyone creates their own branch for a component, once it's finished only they push it and create a pull request. So we're never working in each other's code. 
+* The big advantage of React is that it's **easy to work** on the same project **as a team** in a structured way. We have a [github project](https://github.com/Maikxx/360-wallscope/projects/1), where each task is put on the board. Anyone can pick a card and start working on it. Mostly you'll make a new component and create a new feature branch for it in git. 
+* **Less merge conflicts.** So if we use this workflow correctly, the amount of merge conflicts should be brought to a minimum. Because everyone creates their own branch for a component, once it's finished you push it and create a pull request. So we're never working in each other's code. 
+* **Recycling components.** When you have to make a form but someone else made a basic form, you can simply reuse it. The best example of this with our own project is with buttons. Since there's mostly only a couple different types of buttons in a design. You only have to make each button once and then just import it into all components that needs a button. 
+
+### Cons
+* The big con for me was that it is quite hard to learn in three weeks, this is mainly due to the **'component mindset'.** With every component you have to really think through why you're making it and how others will reuse it in their own components. There's also bigger and smaller components, the smaller components will always work their way up. Which means that bigger components import smaller components and so on until you import the biggest components into the app itself. 
+* **HTML in Javascript?!** This was very confusing to me, combined with the component mindset I didn't quite understand where my html was going to end up. Also the syntax for (JSX) HTML in Javascript is a little different, but nothing to big to handle. 
+
