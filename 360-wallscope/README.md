@@ -289,3 +289,28 @@ const { className, styleOverride } = this.props
 
 ## Web Design
 ![WebDesign](./img/WebDesign.png)
+
+# User test
+## Report
+### General info
+* Team: [Chelsea](https://github.com/chelseadoeleman), [Maikel vV](https://github.com/Maikxx), [Maikel S](https://github.com/Senpaizuri), [Jesper](https://github.com/jesperingels)
+* Date: 06-20-2019
+* Product: RAIN, enabling students and journalists to find data, store this data and link the data. This results in more relevant data for the user, which makes it easier for them to draw conclusions.
+* Why does the user use this app?: To find data they need in their research, article, thesis etc. 
+
+### Purpose of this test
+**High-level**
+1. Does the user understand how the app can help them?
+2. Is the usability good enough for them to achieve their goals. 
+3. Does the user understand what Boards does and why it's usefull for them?
+4. Would the user use it more often on their phone or laptop/desktop?
+
+
+**Research questions**
+1. Does the user understand they first have to log in to be able to store data?
+2. Does the user understand how they can add an article to their board.
+3. Does the user know how to link the data?
+
+### Intro scenario
+
+
