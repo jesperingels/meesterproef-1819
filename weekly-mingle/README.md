@@ -74,4 +74,14 @@ The employee who gave the presentation at the weekly mingle was very much up to 
 *I couldn't attend this weekly mingle because I was in Edinburgh for the Wallscope project*
 
 ## Weekly Mingle - Q42
-This is one of my favorite companies of the weekly mingle. To me this company is just a big playground for developers, at least that's what it looked like from the presentation. Every week the employees get 2 hours to spent on research of new technologies so you keep up to date 
+This is one of my favorite companies of the weekly mingle. To me this company is just a big playground for developers, at least that's what it looked like from the presentation. Every week the employees get 2 hours to spent on research of new technologies so they keep up to date. 
+
+Q42 is defenitly a company that differs from the 'pack'(Digital agencies). When a client approaches them with an idea or a problem that has to be solved. Q42 will first look wether the problem is really a problem and if the idea is really the solution. This is something which I think is really cool. They showed that because of this approach to clients their products aren't just a standard website of dashboard. For example some products involve VR or IOT. This is not common for a digital agency, at least from what I have seen. 
+
+Overal a very interesting company!
+
+## Weekly Mingle - Matise
+Matise has an interesting location. They're in a typical Amsterdam house with the zoo Artis right in front of them. 
+They showed us around and explained what clients they work for. A particular client already had a design and just wanted matise to build it. But Matise took a closer look into the case and found that the design was very generic and didn't show anything about what the company is. 
+
+So they redesigned it into something that really fits the brand the client wanted to show to the world. I think this is a typical CMD assignment. Where a client wants something, the CMD student does some research and then convinces the client that what they want isn't what they need. So it's a very good mindset to have as a company apposed to clients. 
