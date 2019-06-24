@@ -311,11 +311,32 @@ const { className, styleOverride } = this.props
 2. Does the user understand how they can add an article to their board.
 3. Does the user know how to link the data?
 
-### Intro scenario
+### Intro scenario / tasks
 * You're a student writing your thesis and you have to search our database. You want to store this data so you can get an overview. 
 
 * The data is related to eachother, for your research you want to define which data belongs to eachother. 
 
 * While your logged in, change your username. 
+
+## User Scenario
+Noah is a medical student writing his thesis and has to look into multiple (medical) datasets to support his findings. He sits in the school library on his laptop searching the few specific websites that provide this data. Noah had to follow a seperate course to be able to search for the data using these websites, this is because the usability of the websites is very bad. 
+
+Noah downloads the app 'Rain', he heard is friend talk about this app. Noah is writing about alcohol abuse, and how it differs in different areas in the country. So he opens up the app and the first thing he does is type in what he's searching for: 'Alcohol abuse in Noord-Holland'.
+| ![Home page](./img/Home-Search@2x.jpg) --------------> | ![Articles](./img/articles@2x.jpg) |   
+|----------------------------------------|------------------------------------|
+
+ The key words the system (Natural Language Processing) picks out are highlighted, so Noah now knows which words the app is using to search the data. 
+
+ ![Articles plus](./img/articlesPlus@2x.jpg)
+ 
+ Noah doesn't quite find what he's looking for, so he adds some keywords that the app suggests to him. The ammount of articles and datasets decreases, which means that the search has become more specified.
+
+![Boards pop-up](./img/popupBoards@2x.jpg)  
+
+Noah browses through the articles and wants to save some articles to get an overview. He clicks on the 'boards' button in the bottom-menu and is prompted with the message that he has to be logged in to use 'boards'. So Noah creates an account. 
+
+![Create Account](./img/createAccount@2x.jpg)
+
+After Noah created his account he goes right back to where he left and adds an article to his Board
 
 
