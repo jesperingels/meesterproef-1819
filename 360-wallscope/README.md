@@ -328,7 +328,7 @@ Noah downloads the app 'Rain', he heard is friend talk about this app. Noah is w
 
  The key words the system (Natural Language Processing) picks out are highlighted, so Noah now knows which words the app is using to search the data. 
 
- | ![Articles plus](./img/articlesPlus@2x.jpg) |  |   
+ | ![Articles plus](./img/articlesPlus@2x.jpg) |-------------------------------|   
 |----------------------------------------|------------------------------------|
 
  
