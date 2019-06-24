@@ -322,6 +322,7 @@ const { className, styleOverride } = this.props
 Noah is a medical student writing his thesis and has to look into multiple (medical) datasets to support his findings. He sits in the school library on his laptop searching the few specific websites that provide this data. Noah had to follow a seperate course to be able to search for the data using these websites, this is because the usability of the websites is very bad. 
 
 Noah downloads the app 'Rain', he heard is friend talk about this app. Noah is writing about alcohol abuse, and how it differs in different areas in the country. So he opens up the app and the first thing he does is type in what he's searching for: 'Alcohol abuse in Noord-Holland'.
+
 | ![Home page](./img/Home-Search@2x.jpg) --------------> | ![Articles](./img/articles@2x.jpg) |   
 |----------------------------------------|------------------------------------|
 
