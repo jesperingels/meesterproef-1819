@@ -323,13 +323,12 @@ Noah is a medical student writing his thesis and has to look into multiple (medi
 
 Noah downloads the app 'Rain', he heard is friend talk about this app. Noah is writing about alcohol abuse, and how it differs in different areas in the country. So he opens up the app and the first thing he does is type in what he's searching for: 'Alcohol abuse in Noord-Holland'.
 
-| ![Home page](./img/Home-Search@2x.jpg) --------------> | ![Articles](./img/articles@2x.jpg) |   
+| ![Home page](./img/Home-Search@2x.jpg) | ![Articles](./img/articles@2x.jpg) |   
 |----------------------------------------|------------------------------------|
 
  The key words the system (Natural Language Processing) picks out are highlighted, so Noah now knows which words the app is using to search the data. 
 
- | ![Articles plus](./img/articlesPlus@2x.jpg) |-------------------------------|   
-|----------------------------------------|------------------------------------|
+<img src="./img/articlesPlus@2x.jpg" />
 
  
  Noah doesn't quite find what he's looking for, so he adds some keywords that the app suggests to him. The ammount of articles and datasets decreases, which means that the search has become more specified.
