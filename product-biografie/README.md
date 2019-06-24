@@ -24,28 +24,34 @@ After some presentations we started brainstorming and trying to understand the l
 
 When starting a new project I always have a lot of ideas. So I just start sketching to try and explain my ideas:
 Here the idea is that you start by searching for tags, by which you get certain results. The user can configure the way the tags are linked to get different results. 
-|![scan1](./img/scan1.jpg)|
-|----------|-----------|
+![scan1](./img/scan1.jpg)
 
-This idea is focused on the people who don't know what they're looking for. It starts with a button to randomize the query and you directly see the results. The results themself can also be shuffled.
+This idea is focused on the people who don't know what they're looking for. It starts with a button to randomize the query and you directly see the results. The results can also be shuffled.
 This way the user can get many different unexpected results. 
-|![scan2](./img/scan2.jpg)|
-|----------|-----------|
+![scan2](./img/scan2.jpg)
 
 In this idea the user sees a summary of the article as a result, instead of the 'Google' way of showing results with hyperlinks. This way the user asks their question like a story and also receives a story as a result. 
-|![scan3](./img/scan3.jpg)|
-|----------|-----------|
+![scan3](./img/scan3.jpg)
 
 **Start of our concept**
 
 This is the sketch which led to our current concept.
 Here the user searches for something through an input field. The results have the option to give it a like so it will be stored in their personal 'Topics' (which was later named 'Boards'). In the overview of the different topics the user can see how many articles are stored in the topic by looking at the different sizes. 
-|![scan4](./img/scan4.jpg)|
-|----------|-----------|
+![scan4](./img/scan4.jpg)
 
-On the final day of the event we chose to present the idea above to the rest of the attendees. While I was still sketching different ideas the rest of the project group made some first designs of how it might look like. The attendees where pleased with what we came up with in two days. 
+On the final day of the event we chose to present an idea where the user can search with large sentences. While I was still sketching different ideas the rest of the project group made some first designs of how it might look like. The attendees where pleased with what we came up with in two days. 
 
 ## Week 2
+This week was a little harder, when we had a talk with our coach we realized that we just made an input field to search a database accessible to the public. So basically a simple concept for the target group: 'everyone'. We chose to go for a more focused target group: 'medical students'. We chose to go for the idea I came up with in Edinburgh: ![scan4](./img/scan4.jpg) 
+
+So now we have a good target group with an exciting concept. Now we had to choose how we were going to realise it. [Maikel van Veen](https://github.com/Maikxx) suggested to work with React and Typescript for our workflow. I've never worked with React or Typescript before, but I think it's very interesting and I want to learn more about it. 
+
+The biggest part of this week was setting up and working out how to app is going to work. The rest of the group was mainly focused on the more technical side of the project, but I focused more on the UI/UX. I always try to know at every moment of the project: Why are we making this? Who is going to use it? How is anyone going to use this? etc. So I started drawing and making sense of the concept: 
+![scan4](./img/scan6.jpg) 
+
+This week I also started learning react and the component based workflow. I wrote an article about my view on React [here](https://github.com/jesperingels/weekly-nerd-1819/blob/master/articles/react/README.md). It was quite hard to understand React and also effectively work with it in such a short time span. It was a little frustrating for me, since I was thinking/typing/searching for React 80% of the time and I only spent 20% actually typing effective working code. So for example when making a header it would maybe take a few seconds to type it in HTML: `<header></header>`. But in React you have to create an entire component just to produce the same line of code. You also have to think what you want to do with the component, when implementing it in other components or rendering it eventually. 
+
+## Week 3
 
 
 
