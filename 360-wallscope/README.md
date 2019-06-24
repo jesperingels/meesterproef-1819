@@ -2,6 +2,7 @@
 
 * [Learning React](#Learning-React)
 * [Rubrics](#Rubrics)
+* [User test / scenario](#User-test)
 
 # Learning React
 I used this [Tutorial](https://react.holiday/2017/) to understand the basics of React.

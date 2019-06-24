@@ -52,7 +52,10 @@ The biggest part of this week was setting up and working out how to app is going
 This week I also started learning react and the component based workflow. I wrote an article about my view on React [here](https://github.com/jesperingels/weekly-nerd-1819/blob/master/articles/react/README.md). It was quite hard to understand React and also effectively work with it in such a short time span. It was a little frustrating for me, since I was thinking/typing/searching for React 80% of the time and I only spent 20% actually typing effective working code. So for example when making a header it would maybe take a few seconds to type it in HTML: `<header></header>`. But in React you have to create an entire component just to produce the same line of code. You also have to think what you want to do with the component, when implementing it in other components or rendering it eventually. 
 
 ## Week 3
+This week I continued with Learning React and started to create one of my first components. To start working on a project I first look at our git hub [project board](https://github.com/Maikxx/360-wallscope/projects/1) and choose a todo I can pickup. I drag the card to the 'in progress' board and create a new feature branch for the component I'll be working on. 
+Next thing is to put the React standard component code in the file. I took notes on my learning process with React [here](https://github.com/jesperingels/meesterproef-1819/tree/master/360-wallscope) 
 
+I learned a lot from the workflow we used in this project, since it was sort of the same workflow Maikel van Veen used at [Lifely](https://lifely.nl/) it's a workflow professionals use. So I think it's good to have experience with a workflow like this, when working for a company like Lifely in the future. 
 
 
 
