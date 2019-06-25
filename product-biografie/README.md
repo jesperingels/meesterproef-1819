@@ -57,5 +57,16 @@ Next thing is to put the React standard component code in the file. I took notes
 
 I learned a lot from the workflow we used in this project, since it was sort of the same workflow Maikel van Veen used at [Lifely](https://lifely.nl/) it's a workflow professionals use. So I think it's good to have experience with a workflow like this, when working for a company like Lifely in the future.  
 
+This week I created a simple error handling by using the react library: [React-toastify](https://github.com/fkhadra/react-toastify). It was really simple to use since you only have to import the library and say in what case you want to use a toast. For example when you create an account successfully you'll get a green pop-up instead of a red pop-up when something goes wrong. So nothing to fancy here but a fast and easy way to implement this. 
+
+Later this week I started working on an accordion for the articles and data when someone sees their search results.
+Here's the design:
+<img height="800px" src="./img/articlesLi@2x.jpg"/> 
+
+And here you can see the live app what it actual turned into: [Demo](https://wallscope.herokuapp.com/)
+when you click 'start searching' you'll go to the articles and data overview with the accordion. 
+
+
+
 
 
