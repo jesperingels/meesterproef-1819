@@ -110,7 +110,7 @@ A learning point for me here is to be more prepared, and focus on the questions 
 At the end of the week I started with the documentation of the project and reflecting on how the project went. 
 
 ## Week 5
-
+This week we only had three days to finish the application and everything else that had to be done. I mainly focused on: Design Rationale, Product Biografie, Reflectie and the presentation for the exposition at the end of the week. 
 
 
 
