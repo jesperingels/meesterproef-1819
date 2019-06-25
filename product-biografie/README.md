@@ -52,12 +52,18 @@ The biggest part of this week was setting up and working out how to app is going
 This week I also started learning react and the component based workflow. I wrote an article about my view on React [here](https://github.com/jesperingels/weekly-nerd-1819/blob/master/articles/react/README.md). It was quite hard to understand React and also effectively work with it in such a short time span. It was a little frustrating for me, since I was thinking/typing/searching for React 80% of the time and I only spent 20% actually typing effective working code. So for example when making a header it would maybe take a few seconds to type it in HTML: `<header></header>`. But in React you have to create an entire component just to produce the same line of code. You also have to think what you want to do with the component, when implementing it in other components or rendering it eventually. 
 
 ## Week 3
+**Workflow**
+
 This week I continued with Learning React and started to create one of my first components. To start working on a project I first look at our git hub [project board](https://github.com/Maikxx/360-wallscope/projects/1) and choose a todo I can pickup. I drag the card to the 'in progress' board and create a new feature branch for the component I'll be working on. 
 Next thing is to put the React standard component code in the file. I took notes on my learning process with React [here](https://github.com/jesperingels/meesterproef-1819/tree/master/360-wallscope) 
 
 I learned a lot from the workflow we used in this project, since it was sort of the same workflow Maikel van Veen used at [Lifely](https://lifely.nl/) it's a workflow professionals use. So I think it's good to have experience with a workflow like this, when working for a company like Lifely in the future.  
 
+**Toast**
+
 This week I created a simple error handling by using the react library: [React-toastify](https://github.com/fkhadra/react-toastify). It was really simple to use since you only have to import the library and say in what case you want to use a toast. For example when you create an account successfully you'll get a green pop-up instead of a red pop-up when something goes wrong. So nothing to fancy here but a fast and easy way to implement this. 
+
+**Accordion**
 
 Later this week I started working on an accordion for the articles and data when someone sees their search results.
 Here's the design:
@@ -66,6 +72,17 @@ Here's the design:
 And here you can see the live app what it actual turned into: [Demo](https://wallscope.herokuapp.com/)
 when you click 'start searching' you'll go to the articles and data overview with the accordion. 
 
+**CSS to the rescue**
+
+Also this week I worked on the overview of the boards. With this feature I wanted to experiment a little with CSS. This is because from the beginning I had this idea where you could see how many articles there are in your board by the design of the boards. For example they could look bigger and smaller, or they could have little dots inside of them to show the amount of articles on the board. 
+What I ended up doing is to use the transform 3D properties of CSS. I experimented with this before in the course [css-to-the-rescue](https://jesperingels.github.io/css-to-the-rescue-1819/assignment/index.html). This is what I made for the boards: 
+
+|![Boards in](./img/boardsIn.png) | ![Boards out](./img/boardsOut.png) |
+|------|------|
+
+So when you hover over a board it folds inwards in 3D to show what's inside the board 🧐 I think that's pretty cool! You can also try it for yourself in the [Demo](https://wallscope.herokuapp.com/) (you do have to login / create an account first and then go to 'Boards').
+
+## Week 4
 
 
 
