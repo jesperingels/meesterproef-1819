@@ -72,6 +72,8 @@ Here's the design:
 And here you can see the live app what it actual turned into: [Demo](https://wallscope.herokuapp.com/)
 when you click 'start searching' you'll go to the articles and data overview with the accordion. 
 
+The weird thing I noticed here is that you can't just animate height. For some reason you have to tell the element with Javascript that the height has to be 0 and 100% when clicked. 
+
 **CSS to the rescue**
 
 Also this week I worked on the overview of the boards. With this feature I wanted to experiment a little with CSS. This is because from the beginning I had this idea where you could see how many articles there are in your board by the design of the boards. For example they could look bigger and smaller, or they could have little dots inside of them to show the amount of articles on the board. 
@@ -83,6 +85,19 @@ What I ended up doing is to use the transform 3D properties of CSS. I experiment
 So when you hover over a board it folds inwards in 3D to show what's inside the board 🧐 I think that's pretty cool! You can also try it for yourself in the [Demo](https://wallscope.herokuapp.com/) (you do have to login / create an account first and then go to 'Boards').
 
 ## Week 4
+This week I started working on the feature where to bottom menu pops up and sticks to the bottom of the page. [Chelsea](https://github.com/chelseadoeleman) had used the Modal library for React before so I could 'simply' look at her code and try to make this menu work. Well it wasn't so simple for me, mainly because the code was just very unfamiliar to me. Also because there was some different 'react logic' for this component. What I mean with 'react logic' is that when I look at components made by my fellow students, there's always a different system or logic behind it. And I found that it takes a lot of time for me to understand this so I can use it in my own components. But eventually I got there:
+
+|![home page](./img/menuIn.png)|![menu out](./img/menuOut.png)|
+|---|---|
+
+The communication with Wallscope went very well or I didn't go so well depending on the way you look at it. Every time we had a meeting with them through Skype they said everything looked fine and was good. But there wasn't much feedback about where the app or concept could be improved. This is something that I would have preferred. Because when everything is just fine all the time I'm not really learning anything from them. 
+
+One of my rubrics includes Web-Design so I wanted to do a user test to see where the product could be improved and wether the concept worked at all. I'm not very experienced with user testing, so I prepared as best as I could. You can read the preparation I did [here](https://github.com/jesperingels/meesterproef-1819/tree/master/360-wallscope#User-test).
+
+The user test was done with the entire project group. 
+So I tried to take the lead since I'd prepared for it. The others were ready to take notes. The start went alright but then I sort of blacked out and didn't know what to say or what to do next, so I looked to my team mates for help. So the rest of the test we asked the user questions as a team. 
+
+A learning point for me here is to be more prepared, and focus on the questions I want to ask to the user. Now I knew what I wanted to know but didn't know how to test it. 
 
 
 
