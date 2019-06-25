@@ -92,6 +92,8 @@ This week I started working on the feature where to bottom menu pops up and stic
 |![home page](./img/menuIn.png)|![menu out](./img/menuOut.png)|
 |---|---|
 
+It looks very simple but honestly I worked several days on this feature. But in the process I learned a lot about React, which I think is the most important thing this entire project. To me personally it looks like I didn't do much this project. But that's because I had such a hard time completing these React components. Where others were putting their time into writing code and finishing components I was putting my time into reading articles and examining code to learn how to build my own components. 
+
 **Wallscope**
 
 The communication with Wallscope went very well or I didn't go so well depending on the way you look at it. Every time we had a meeting with them through Skype they said everything looked fine and was good. But there wasn't much feedback about where the app or concept could be improved. This is something that I would have preferred. Because when everything is just fine all the time I'm not really learning anything from them. 
