@@ -45,13 +45,23 @@ The most important user goal is for the user to be able to effectively draw conc
 ## Web Apps From Scratch
 * App structure and code quality
     * Structure your code, apply patterns and being able to substantiate why you use these patterns.
+    
+   *During this project I've worked with React and Typescript, this results in very structured code and using patterns like the component based app.*
+
 * Refactoring
+
+*Because I had no experience with React or Typescript, I had a lot of refactoring to do since my code wasn't perfect straightaway* 
 
 ## CSS-to-the-rescue
 * Experiment with CSS
+
+*I experimented with CSS by using `transform` 3d you can read more info about it [here](./product-biografie/README.md)*
+
 * Understand the broader scope of CSS
     * CSS is more than just styling
 
 ## Web Design
 * Understand user needs and apply it to your design
     * Write a user scenario and perform a user test
+
+*I prepared and performed a user test. I also described the user scenario / user flow you can read this [here](./360-wallscope/README.md)*
