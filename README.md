@@ -39,7 +39,7 @@ Our products most important design decisions were the following:
 * Linking pieces of data together in multiple ways
 
 ## User goal
-The most important user goal 
+The most important user goal is for the user to be able to effectively draw conclusions form their research by storing and linking the data. 
 
 # Learning goals (rubrics)
 ## Web Apps From Scratch
