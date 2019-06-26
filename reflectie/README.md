@@ -13,7 +13,9 @@ I think I continued the 'CSS to the rescue' in this project. I was always search
 CSS is one of the courses I was best at during this minor so at first I wanted to show what I can do during this project. But I came to the conclusion that it's better to work on things I'm not so good at yet like Web Apps From Scratch, which I really improved on compared to the start of this minor. Overall my technical skills have skyrocketed compared to the start of this minor, which I'm very pleased about. 
 
 ## Browser Technologies
-Browser Technologies is the course that got the least attention this project 😢. This is mainly because we used React, which is build on Javascript. When a user has javascript turned of or it didn't load the entire app won't load. Which is one of the disadvantages of working with React. But React had a lot of other advantages that contributed to my learning process. 
+Browser Technologies is the course that got the least attention this project 😢. This is mainly because we used React, which is build on Javascript. When a user has **javascript** turned of or it didn't load the entire app won't load. Which is one of the disadvantages of working with React. But React had a lot of other advantages that contributed to my learning process. 
+
+I've tested if the app works different **browsers**: Chrome, Safari and Firefox. Firefox had a problem with the `transform: rotate3d()`. To give rotate3d a direction, the parent element needs to have `perspective:`. The perspective was set on the parent of the parent element so two levels up. Chrome lets the perspective flow down multiple child elements. Turns out that Firefox is more strict here and it doesn't apply the transform correctly. The solution was to put the perspective directly on the parent element. Now it works in all three browsers!
 
 ## Web Design 
 This is one of the courses I used a lot during the entire process, since I was always thinking about the **user** at every design decision.
@@ -24,3 +26,5 @@ To test our design choices we held a **user test** with a (medical) student. I p
 The test went quite well, the user acknowledged the problem with the current websites build to access the public health data. And said this app could really help them to search and draw conclusions while researching more effectively and efficiently. There was also a menu button we had a discussion about beforehand, whether the user would understand it. Turns out the user didn't even see it! That's why a user test is always better than just debating about what a user could be thinking. 
 
 The preparation for the user test meant writing a short to do list and what I wanted to know. Followed by a **user scenario** / user flow of the app. This really helped to get an overview of what the app is and how it can/should be used. This lined up quite well with what the user did. I think it helped that we kept the app simple, because there aren't many different pages. 
+
+
