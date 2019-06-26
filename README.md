@@ -2,7 +2,7 @@
 
 ## Overview
 * [Summary](#Summary)
-* [Rubrics](#Rubrics)
+* [Learning goals](#Learning-goals)
 * [Design rationale](https://github.com/Maikxx/360-wallscope/blob/master/docs/DESIGN_RATIONAL.md)
 * [Product biografie](./product-biografie/README.md)
 * [Reflectie](./reflectie/README.md)
