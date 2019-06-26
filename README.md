@@ -2,7 +2,7 @@
 
 ## Overview
 * [Summary](#Summary)
-* [Learning goals](#Learning-goals)
+* [Learning goals](#Learning-goals-(rubrics))
 * [Design rationale](https://github.com/Maikxx/360-wallscope/blob/master/docs/DESIGN_RATIONAL.md)
 * [Product biografie](./product-biografie/README.md)
 * [Reflectie](./reflectie/README.md)
@@ -34,9 +34,9 @@ Create an application that enables the user to search the NHS database more effe
 ## Design decisions
 Our products most important design decisions were the following:
 
-* Light / Dark mode
-* Saving your research progress in boards
-* Linking pieces of data together in multiple ways
+* Light / Dark mode (the user works mostly at night)
+* Saving your research progress in boards (the user wants to have an overview of their research)
+* Linking pieces of data together in multiple ways (helps the user to draw conclusions from their research)
 
 ## User goal
 The most important user goal is for the user to be able to effectively draw conclusions form their research by storing and linking the data. 
