@@ -112,6 +112,8 @@ At the end of the week I started with the documentation of the project and refle
 ## Week 5
 This week we only had three days to finish the application and everything else that had to be done. I mainly focused on: Design Rationale, Product Biografie, Reflectie and the presentation for the exposition at the end of the week. 
 
+After a talk with our coach we concluded that some final change had to be made to have a working prototype ready for the exposition. So I fixed some cross-browser issues and the overall responsiveness of the app. 
+
 
 
 

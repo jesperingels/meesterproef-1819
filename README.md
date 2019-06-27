@@ -1,5 +1,8 @@
 # Meesterproef 2019 @cmda-minor-web · 2018-2019
 
+## Project - RAIN (360-Wallscope)
+You can find the project repository [here](https://github.com/Maikxx/360-wallscope)
+
 ## Overview
 * [Summary](#Summary)
 * [Learning goals](#Learning-goals-(rubrics))

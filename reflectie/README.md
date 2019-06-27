@@ -27,4 +27,10 @@ The test went quite well, the user acknowledged the problem with the current web
 
 The preparation for the user test meant writing a short to do list and what I wanted to know. Followed by a **user scenario** / user flow of the app. This really helped to get an overview of what the app is and how it can/should be used. This lined up quite well with what the user did. I think it helped that we kept the app simple, because there aren't many different pages. 
 
+## Performance Matters
+I didn't really focus on this course so much during this project. This is mainly because everyone in the project group had an area where they focussed on. Performance Matters was more a focus point for Maikel van Veen. Since he set up the folder structure and build the server that handles all the data. I was more focussed on the user by adding meaningful interactions I learned in CSS-to-the-rescue and user test, user scenarios I learned in the course Web Design.
+
+## Real-Time Web
+In the design we had an idea where multiple users could collaborate on a board and see the changes happen in real-time. Maikel van Veen tried working this out but came to the conclusion that it was going to be way to difficult for the time we had. For me it would have been even more difficult since I had a hard time understanding the entire folder structure, React and Typescript. 
+
 
